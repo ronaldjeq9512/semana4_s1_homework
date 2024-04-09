@@ -1,11 +1,23 @@
-h1 {
-    color: red
+h1 { /*  Cumple con el punto 3 del archivo readme.md */
+    color: red  
 }
 
 p {
     color: red;
 }
 
+h1 { /*  Cumple con el punto 4 del archivo readme.md */
+    color: green
+}
+
 a {
-    color: inherit;
+    color: inherit; /*  Cumple con el punto 2 del archivo readme.md */
+}
+
+.hellowWorld {  /*  Cumple con el punto 5 del archivo readme.md */
+    color:aqua
+}
+
+#pWorld { /*  Cumple con el punto 6 del archivo readme.md */
+   color: yellow !important; /*  Cumple con el punto 8 del archivo readme.md */
 }
